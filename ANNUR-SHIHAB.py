@@ -387,12 +387,12 @@ logo = ("""\033[132m
  |_|  |_|_|    |_____/|_|  |_|_____|_|  |_/_/    \_\____/ 
 ________________________________________________________
                            The Lion Gangster                        
- Public Group : https://facebook.com/groups/930189167598475/           \033
-________________________________________________________
- Owner   : Mr.SHIHAB
- Github  : shihabvau
-Facebook : https://www.facebook.com/Mr.C.E.O.SHIHAB
-____________________________________________________\033[1;37m""")
+ Public Group:https://facebook.com/groups/930189167598475/ \033
+______________________________________________________
+ Owner  :Mr.SHIHAB
+ Github :shihabvau
+Facebook:https://www.facebook.com/Mr.C.E.O.SHIHAB
+________________________________________________\033[1;37m""")
 
 class Main:
 	def __init__(self):
@@ -403,7 +403,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;36m     THE LION GANGSTER")
+		print("\033[1;36m     THE LION GANGSTER ANNUR-SHIHAB")
 		print("")
 		print("\033[1;32m [1] First You Joined Group")
 		print("\033[1;33m [2] Exit")
