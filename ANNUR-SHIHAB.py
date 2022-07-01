@@ -391,7 +391,7 @@ __________________________________________________________
 __________________________________________________________
      Owner  :   MR. ANNUR-SHIHAB
    Github   :   ANNUR-SHIHABvau
-   Facebook :   https://www.facebook.com/Mr.C.E.O.ANNUR-SHIHAB
+   Facebook :   https://www.facebook.com/Mr.C.E.O.SHIHAB
 _____________________________________________________________\033[1;37m""")
 
 
@@ -405,7 +405,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;36m     UNSUSCRIBE KARNE WALON KA APROVEL URA DEYA JAIGA")
+		print("\033[1;36m     THE LION GANGSTER ")
 		print("")
 		print("\033[1;32m [1] First You Joined Group")
 		print("\033[1;33m [2] Exit")
